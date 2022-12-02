@@ -1,1 +1,1 @@
-# MIPS-pipeline-simulator-
+# MIPS-pipeline-simulator
